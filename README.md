@@ -13,3 +13,7 @@ Follow us on the web:
 
 * Twitter: http://twitter.com/smartthingsdev
 * Facebook: http://facebook.com/smartthingsdevelopers
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
